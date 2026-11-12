@@ -1,1 +1,1 @@
-A standalone simple java app to connect to LLM to answer user query.
+A standalone simple Java application to connect to LLM to answer user query.
